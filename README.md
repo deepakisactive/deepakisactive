@@ -29,7 +29,7 @@
  <br/>
  <div align = "center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,figma,swift,c,flutter,python,java,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=git,arduino,figma,c,flutter,python,java,vscode" /><br>
     </a>
     <a2 href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=autocad,azure,css,nodejs,mysql,npm,postman,r,linkedin" /><br>
@@ -38,6 +38,5 @@
 
  <div align = "center">
    <h5 align = "center" > My used Platforms 🖥️💻</h5>
-   <img src = "https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
    <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
  </div>
