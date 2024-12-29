@@ -6,9 +6,9 @@
 
 <h3 align ="left">
     
--🔭 I’m currently wyorking on Frontend Development and CP.
+-🔭 I’m currently working on Frontend Development and CP.
     
--🌱 I’m currently learning web3 and backend
+-🌱 I’m currently learning web3 and backend.
 
 -👯 I’m looking to collaborate with Web 3 , Frontend Developers and CP enthusiast.
 
