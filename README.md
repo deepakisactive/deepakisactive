@@ -6,17 +6,15 @@
 
 <h3 align ="left">
     
--🔭 I’m currently working on Frontend Development and CP.
-    
--🌱 I’m currently learning web3 and backend.
+-🌱  I’m currently working on AI/ML and Web Development.
 
--👯 I’m looking to collaborate with Web 3 , Frontend Developers and CP enthusiast.
+-👯 I’m looking to collaborate with Web 3 and ML enthusiasts.
 
--🤔 I’m looking for help with web-3 projects.
+-🤔 I’m looking for help with AI and ML projects.
 
--⚙️ I use daily: .js, .cpp, .py, .jsx
+-⚙️ I use daily: .ipynb, .js, .cpp, .py, .jsx
 
--💬 Ping me about CP, fullstack, ML, web3
+-💬 Ask me about C++, Python, SQL, ML, Java, Javascript
 
 <div align = "center">
   <a href="mailto:isdeepakactive@gmail.com">
