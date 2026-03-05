@@ -222,7 +222,7 @@ for fact, description in fun_facts.items():
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cykikz&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakisactive&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 <br>
 
